@@ -5,7 +5,7 @@
 * main - Entry point
 * Return: Always return 0 (success)
 */
-int main(void)	 
+int main(void)
 {
 char low, e, q;
 e = 'e';
